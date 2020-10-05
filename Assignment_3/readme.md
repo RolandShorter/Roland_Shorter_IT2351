@@ -6,3 +6,6 @@ Querry Review:
   Querry 5 I created a statement and used the sum funtion to add all the values in the ship_amount column to get my total.
   Querry 6 My thought was to get the values from the products table with using the count and max funtion then i thought I would join the categories table to the product table for my other value I need to grab.
   Querry 7 I did not get to since I was already having trouble getting the joins to work in Querry 6
+
+Conclusion
+  I understand how the functions work and find them easy to use my problem still remains getting joins to work.
