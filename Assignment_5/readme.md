@@ -1,1 +1,1 @@
-
+Executive summary I tried creating a model but was not abel to run it. Then I tried editing the guitarbase model but was unable to rename the columns. I am totaaly lost now.I tried looking at videos on Youtube Na d Udemy but was not able to cerratew a databse to meet the homework requirements. I understand that 1st normal is where you does not  have multiple valued attributes, 2nd normal is where it is in 12st normal and it does not have a prtial relaion, and 3rd normal  I am having trouble understanding.
