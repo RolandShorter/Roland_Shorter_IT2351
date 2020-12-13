@@ -7,6 +7,7 @@ Executive Summary: This section focused on database administration. You focused 
 3.	Variables – When working on a server, there are status variables and system variables. A status variable has information about the status of the server. System variables store the current configuration of the server.
 
 4.Privileges –
+
 A.
 CREATE USER guitar_admin@localhost IDENTIFIED BY 'pa55word'; Creates a user named guitar_admin@localhostand identified by password
 CREATE USER guitar_user@localhost IDENTIFIED BY 'pa55word'; Creates a user named guitar_admin@localhostand identified by a password.
